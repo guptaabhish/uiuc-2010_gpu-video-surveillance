@@ -1,0 +1,114 @@
+Total Time by gettimeofday for BKG calc(at each pass)= 101.704000
+ Total Read time in bkg1.337000
+ Inside read 0.473000
+Inside read 0.846000
+Inside read 1.367000
+Inside read 1.735000
+Inside read 2.108000
+Inside read 2.466000
+Inside read 2.829000
+Inside read 3.206000
+Total Time by gettimeofday for BKG calc(at each pass)= 104.493000
+ Total Read time in bkg1.321000
+ Inside read 3.608000
+Inside read 3.988000
+Inside read 4.359000
+Inside read 8.006000
+Inside read 8.375000
+Inside read 8.746000
+Inside read 9.132000
+Inside read 9.526000
+Total Time by gettimeofday for BKG calc(at each pass)= 100.717000
+ Total Read time in bkg1.312000
+ Inside read 9.975000
+Inside read 10.168000
+Inside read 10.366000
+Inside read 10.554000
+Inside read 10.744000
+Inside read 10.930000
+Inside read 11.124000
+Inside read 11.314000
+Total Time by gettimeofday(unreliable)= 5857.321000
+ Total Read time in main 43.627000
+ Total time for write in main 65.744000
+
+Total Time by gettimeofday for BKG calc(at each pass)= 104.047000
+ Total Read time in bkg1.343000
+ Inside read 0.470000
+Inside read 0.855000
+Inside read 1.250000
+Inside read 1.641000
+Inside read 2.028000
+Inside read 2.473000
+Inside read 2.846000
+Inside read 3.240000
+Total Time by gettimeofday for BKG calc(at each pass)= 101.385000
+ Total Read time in bkg1.289000
+ Inside read 3.667000
+Inside read 4.053000
+Inside read 4.467000
+Inside read 4.857000
+Inside read 5.246000
+Inside read 5.442000
+Inside read 5.641000
+Inside read 5.835000
+Total Time by gettimeofday for BKG calc(at each pass)= 49.613000
+ Total Read time in bkg0.647000
+ Inside read 6.055000
+Inside read 6.249000
+Inside read 6.449000
+Inside read 6.664000
+Inside read 6.864000
+Inside read 7.056000
+Inside read 7.254000
+Inside read 7.451000
+Total Time by gettimeofday(unreliable)= 4933.142000
+ Total Read time in main 36.654000
+ Total time for write in main 60.139000
+
+Total Time by gettimeofday for BKG calc(at each pass)= 112.110000
+ Total Read time in bkg1.389000
+ Inside read 0.488000
+Inside read 0.855000
+Inside read 1.245000
+Inside read 1.630000
+Inside read 1.992000
+Inside read 2.355000
+Inside read 2.903000
+Inside read 3.297000
+Total Time by gettimeofday for BKG calc(at each pass)= 105.155000
+ Total Read time in bkg1.327000
+ Inside read 3.759000
+Inside read 4.164000
+Inside read 4.353000
+Inside read 4.541000
+Inside read 4.731000
+Inside read 4.926000
+Inside read 5.121000
+Inside read 5.318000
+Total Time by gettimeofday for BKG calc(at each pass)= 53.099000
+ Total Read time in bkg0.681000
+ Inside read 5.545000
+Inside read 5.733000
+Inside read 5.926000
+Inside read 6.133000
+Inside read 6.318000
+Inside read 6.502000
+Inside read 6.691000
+Inside read 6.884000
+Total Time by gettimeofday(unreliable)= 4758.234000
+ Total Read time in main 38.235000
+ Total time for write in main 53.184000
+
+
+real    0m4.601s
+user    0m4.500s  //user CPU time
+sys     0m0.080s //sys CPU time
+
+
+real    0m6.819s
+user    0m6.392s
+sys     0m0.144s
+
+
+
